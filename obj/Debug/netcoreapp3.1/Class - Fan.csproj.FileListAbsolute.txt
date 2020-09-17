@@ -1,0 +1,13 @@
+C:\Users\Administrator\source\repos\Class - Fan\bin\Debug\netcoreapp3.1\Class - Fan.exe
+C:\Users\Administrator\source\repos\Class - Fan\bin\Debug\netcoreapp3.1\Class - Fan.deps.json
+C:\Users\Administrator\source\repos\Class - Fan\bin\Debug\netcoreapp3.1\Class - Fan.runtimeconfig.json
+C:\Users\Administrator\source\repos\Class - Fan\bin\Debug\netcoreapp3.1\Class - Fan.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\Class - Fan\bin\Debug\netcoreapp3.1\Class - Fan.dll
+C:\Users\Administrator\source\repos\Class - Fan\bin\Debug\netcoreapp3.1\Class - Fan.pdb
+C:\Users\Administrator\source\repos\Class - Fan\obj\Debug\netcoreapp3.1\Class - Fan.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\Class - Fan\obj\Debug\netcoreapp3.1\Class - Fan.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Class - Fan\obj\Debug\netcoreapp3.1\Class - Fan.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Class - Fan\obj\Debug\netcoreapp3.1\Class - Fan.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Class - Fan\obj\Debug\netcoreapp3.1\Class - Fan.dll
+C:\Users\Administrator\source\repos\Class - Fan\obj\Debug\netcoreapp3.1\Class - Fan.pdb
+C:\Users\Administrator\source\repos\Class - Fan\obj\Debug\netcoreapp3.1\Class - Fan.genruntimeconfig.cache
