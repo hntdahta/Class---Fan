@@ -50,7 +50,7 @@ namespace Class___Fan
         {
             color = newColor;
         }
-        public string ToString()
+        public string toString()
         {
             string Text = $"Speed: {speed}\nColor: {color}\nRadius: {radius}\n";
             if (isOn())

@@ -9,7 +9,7 @@ namespace Class___Fan
             Fan fan1 = new Fan();
             fan1.setColor("yellow");
             fan1.setRadius(10);
-            fan1.setSpeed();
+            fan1.setSpeed(1);
             fan1.turnOn();
             Fan fan2 = new Fan();
             fan2.setColor("blue");
